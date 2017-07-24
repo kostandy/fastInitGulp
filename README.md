@@ -11,7 +11,9 @@ $ gulp
 
 ## For production
 
-To build the project, write: ```$ gulp build```
+To build the project, write:
+
+```$ gulp build```
 
 ## Using technologies:
   - gulp
