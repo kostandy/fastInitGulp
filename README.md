@@ -20,5 +20,5 @@ To build the project, write:
   - SASS
   - jade (Pug)
   
-# License
+### License
 MIT
