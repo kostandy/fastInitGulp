@@ -15,7 +15,7 @@ To build the project, write:
 
 ```$ gulp build```
 
-## Using technologies:
+## Usage technologies:
   - gulp
   - SASS
   - jade (Pug)
